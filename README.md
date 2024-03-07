@@ -1,4 +1,4 @@
-# LTV_survival_analysis
+# CLV_survival_analysis
 
 Understanding the Customer Lifetime Value (CLV) is pivotal for businesses, offering insights into revenue forecasting, retention strategies, and product performance. In this project, I analyze sales data for a construction management software company to estimate CLV.
 
